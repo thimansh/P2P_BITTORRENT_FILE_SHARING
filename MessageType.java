@@ -1,4 +1,3 @@
-
 public enum MessageType {
 	 choke(0),
 	 unchoke(1),
