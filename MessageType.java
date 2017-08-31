@@ -14,3 +14,4 @@ public enum MessageType {
 		this.value = value;
 	}
 }
+//Checking a comment.
